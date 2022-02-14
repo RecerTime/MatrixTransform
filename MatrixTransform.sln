@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTransform", "MatrixTransform\MatrixTransform.csproj", "{BCD36813-FBE6-47B8-82A7-003D22AA9D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD36813-FBE6-47B8-82A7-003D22AA9D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD36813-FBE6-47B8-82A7-003D22AA9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD36813-FBE6-47B8-82A7-003D22AA9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD36813-FBE6-47B8-82A7-003D22AA9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B8FDB4-4C17-4286-9B9B-5AE3B62008C6}
+	EndGlobalSection
+EndGlobal
